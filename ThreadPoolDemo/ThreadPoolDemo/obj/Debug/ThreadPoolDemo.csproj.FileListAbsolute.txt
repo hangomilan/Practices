@@ -1,8 +1,0 @@
-C:\DEV\CKeritesProjects\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
-C:\DEV\CKeritesProjects\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe
-C:\DEV\CKeritesProjects\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.pdb
-C:\DEV\CKeritesProjects\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
-C:\DEV\CKeritesProjects\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\ThreadPoolDemo\ThreadPoolDemo\bin\Debug\ThreadPoolDemo.exe.config
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.exe
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\ThreadPoolDemo\ThreadPoolDemo\obj\Debug\ThreadPoolDemo.pdb

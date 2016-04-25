@@ -1,8 +1,0 @@
-C:\DEV\CKeritesProjects\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe.config
-C:\DEV\CKeritesProjects\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe
-C:\DEV\CKeritesProjects\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.pdb
-C:\DEV\CKeritesProjects\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.exe
-C:\DEV\CKeritesProjects\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.pdb
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\SimpleThreadingDemo\SimpleThreadingDemo\bin\Debug\SimpleThreadingDemo.exe.config
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.exe
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\SimpleThreadingDemo\SimpleThreadingDemo\obj\Debug\SimpleThreadingDemo.pdb

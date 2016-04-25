@@ -1,6 +1,0 @@
-C:\DEV\CKeritesProjects\InputValidation\TextConverter\bin\Debug\TextConverter.exe.config
-C:\DEV\CKeritesProjects\InputValidation\TextConverter\bin\Debug\TextConverter.exe
-C:\DEV\CKeritesProjects\InputValidation\TextConverter\bin\Debug\TextConverter.pdb
-C:\DEV\CKeritesProjects\InputValidation\TextConverter\obj\Debug\TextConverter.csprojResolveAssemblyReference.cache
-C:\DEV\CKeritesProjects\InputValidation\TextConverter\obj\Debug\TextConverter.exe
-C:\DEV\CKeritesProjects\InputValidation\TextConverter\obj\Debug\TextConverter.pdb

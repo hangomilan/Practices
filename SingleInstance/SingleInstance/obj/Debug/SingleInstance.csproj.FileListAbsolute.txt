@@ -1,8 +1,0 @@
-C:\DEV\CKeritesProjects\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe.config
-C:\DEV\CKeritesProjects\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe
-C:\DEV\CKeritesProjects\SingleInstance\SingleInstance\bin\Debug\SingleInstance.pdb
-C:\DEV\CKeritesProjects\SingleInstance\SingleInstance\obj\Debug\SingleInstance.exe
-C:\DEV\CKeritesProjects\SingleInstance\SingleInstance\obj\Debug\SingleInstance.pdb
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\SingleInstance\SingleInstance\bin\Debug\SingleInstance.exe.config
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\SingleInstance\SingleInstance\obj\Debug\SingleInstance.exe
-C:\Users\hango milan\Documents\Visual Studio 2015\Projects\Week15A\SingleInstance\SingleInstance\obj\Debug\SingleInstance.pdb
